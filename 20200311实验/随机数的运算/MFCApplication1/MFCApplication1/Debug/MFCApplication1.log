@@ -1,6 +1,0 @@
-﻿  MFCApplication1View.cpp
-e:\那些上网课的痛苦日子\visual c++\20200311实验\随机数的运算\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(102): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
-e:\那些上网课的痛苦日子\visual c++\20200311实验\随机数的运算\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(108): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
-e:\那些上网课的痛苦日子\visual c++\20200311实验\随机数的运算\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(130): warning C4554: “&”: 检查运算符优先级可能存在的错误；使用圆括号阐明优先级
-  MFCApplication1.vcxproj -> E:\那些上网课的痛苦日子\Visual C++\20200311实验\随机数的运算\MFCApplication1\Debug\MFCApplication1.exe
-  MFCApplication1.vcxproj -> E:\那些上网课的痛苦日子\Visual C++\20200311实验\随机数的运算\MFCApplication1\Debug\MFCApplication1.pdb (Partial PDB)
