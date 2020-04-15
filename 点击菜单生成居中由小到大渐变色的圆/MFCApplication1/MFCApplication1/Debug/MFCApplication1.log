@@ -1,0 +1,5 @@
+﻿  MFCApplication1View.cpp
+e:\那些上网课的痛苦日子\visual c++\20200323实验\点击菜单生成居中由小到大渐变色的圆\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(38): warning C4101: “penwidth”: 未引用的局部变量
+e:\那些上网课的痛苦日子\visual c++\20200323实验\点击菜单生成居中由小到大渐变色的圆\mfcapplication1\mfcapplication1\mfcapplication1view.cpp(37): warning C4101: “color”: 未引用的局部变量
+  MFCApplication1.vcxproj -> E:\那些上网课的痛苦日子\Visual C++\20200323实验\点击菜单生成居中由小到大渐变色的圆\MFCApplication1\Debug\MFCApplication1.exe
+  MFCApplication1.vcxproj -> E:\那些上网课的痛苦日子\Visual C++\20200323实验\点击菜单生成居中由小到大渐变色的圆\MFCApplication1\Debug\MFCApplication1.pdb (Partial PDB)
